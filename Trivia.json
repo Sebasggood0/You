@@ -1,0 +1,283 @@
+[
+    {
+        "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+        "opciones": {
+            "A": "Tierra",
+            "B": "Venus",
+            "C": "Mercurio",
+            "D": "Marte"
+        },
+        "respuesta": "C"
+    },
+    {
+        "pregunta": "¿Quién escribió 'Cien años de soledad'?",
+        "opciones": {
+            "A": "Gabriel García Márquez",
+            "B": "Pablo Neruda",
+            "C": "Julio Cortázar",
+            "D": "Mario Vargas Llosa"
+        },
+        "respuesta": "A"
+    },
+    {
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "opciones": {
+            "A": "Nilo",
+            "B": "Amazonas",
+            "C": "Misisipi",
+            "D": "Yangtsé"
+        },
+        "respuesta": "B"
+    },
+    {
+        "pregunta": "¿En qué año llegó el hombre a la Luna?",
+        "opciones": {
+            "A": "1969",
+            "B": "1975",
+            "C": "1980",
+            "D": "1955"
+        },
+        "respuesta": "A"
+    },
+    {
+        "pregunta": "¿Cuál es el metal más conductor de electricidad?",
+        "opciones": {
+            "A": "Oro",
+            "B": "Plata",
+            "C": "Cobre",
+            "D": "Aluminio"
+        },
+        "respuesta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el país más grande del mundo por área?",
+        "opciones": {
+            "A": "China",
+            "B": "Rusia",
+            "C": "Canadá",
+            "D": "Estados Unidos"
+        },
+        "respuesta": "B"
+    },
+    {
+        "pregunta": "¿Quién pintó 'La noche estrellada'?",
+        "opciones": {
+            "A": "Pablo Picasso",
+            "B": "Vincent van Gogh",
+            "C": "Claude Monet",
+            "D": "Salvador Dalí"
+        },
+        "respuesta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el océano más grande del mundo?",
+        "opciones": {
+            "A": "Atlántico",
+            "B": "Índico",
+            "C": "Pacífico",
+            "D": "Ártico"
+        },
+        "respuesta": "C"
+    },
+    {
+        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "opciones": {
+            "A": "Elefante",
+            "B": "Ballena azul",
+            "C": "Tiburón ballena",
+            "D": "Jirafa"
+        },
+        "respuesta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el país más poblado del mundo?",
+        "opciones": {
+            "A": "India",
+            "B": "Estados Unidos",
+            "C": "China",
+            "D": "Indonesia"
+        },
+        "respuesta": "C"
+    },
+    {
+        "pregunta": "¿Cuál es el hueso más pequeño del cuerpo humano?",
+        "opciones": {
+            "A": "Estribo",
+            "B": "Martillo",
+            "C": "Yunque",
+            "D": "Fémur"
+        },
+        "respuesta": "A"
+    },
+    {
+        "pregunta": "¿Cuál es el elemento químico con el símbolo 'O'?",
+        "opciones": {
+            "A": "Oro",
+            "B": "Oxígeno",
+            "C": "Osmio",
+            "D": "Oganesón"
+        },
+        "respuesta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Francia?",
+        "opciones": {
+            "A": "Londres",
+            "B": "Berlín",
+            "C": "París",
+            "D": "Madrid"
+        },
+        "respuesta": "C"
+    },
+    {
+        "pregunta": "¿Cuál es el instrumento musical que tiene 88 teclas?",
+        "opciones": {
+            "A": "Guitarra",
+            "B": "Violín",
+            "C": "Piano",
+            "D": "Batería"
+        },
+        "respuesta": "C"
+    },
+    {
+        "pregunta": "¿Cuál es el país con más islas en el mundo?",
+        "opciones": {
+            "A": "Filipinas",
+            "B": "Indonesia",
+            "C": "Suecia",
+            "D": "Japón"
+        },
+        "respuesta": "C"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre del primer hombre en orbitar la Tierra?",
+        "opciones": {
+            "A": "Neil Armstrong",
+            "B": "Yuri Gagarin",
+            "C": "Buzz Aldrin",
+            "D": "Alan Shepard"
+        },
+        "respuesta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el idioma más hablado del mundo?",
+        "opciones": {
+            "A": "Inglés",
+            "B": "Español",
+            "C": "Mandarín",
+            "D": "Hindi"
+        },
+        "respuesta": "C"
+    },
+    {
+        "pregunta": "¿Cuál es el país con más pirámides?",
+        "opciones": {
+            "A": "México",
+            "B": "Egipto",
+            "C": "Sudán",
+            "D": "Guatemala"
+        },
+        "respuesta": "C"
+    },
+    {
+        "pregunta": "¿Cuál es el metal líquido a temperatura ambiente?",
+        "opciones": {
+            "A": "Plomo",
+            "B": "Mercurio",
+            "C": "Oro",
+            "D": "Plata"
+        },
+        "respuesta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre del creador de Facebook?",
+        "opciones": {
+            "A": "Bill Gates",
+            "B": "Mark Zuckerberg",
+            "C": "Steve Jobs",
+            "D": "Elon Musk"
+        },
+        "respuesta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el país más pequeño del mundo?",
+        "opciones": {
+            "A": "Mónaco",
+            "B": "San Marino",
+            "C": "Vaticano",
+            "D": "Liechtenstein"
+        },
+        "respuesta": "C"
+    },
+    {
+        "pregunta": "¿Cuál es el animal más rápido del mundo?",
+        "opciones": {
+            "A": "Guepardo",
+            "B": "Leopardo",
+            "C": "Águila",
+            "D": "Pez vela"
+        },
+        "respuesta": "A"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre de la galaxia donde se encuentra la Tierra?",
+        "opciones": {
+            "A": "Andrómeda",
+            "B": "Vía Láctea",
+            "C": "Triángulo",
+            "D": "Sombrero"
+        },
+        "respuesta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre del primer satélite artificial?",
+        "opciones": {
+            "A": "Sputnik 1",
+            "B": "Explorer 1",
+            "C": "Hubble",
+            "D": "Voyager 1"
+        },
+        "respuesta": "A"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre del proceso por el cual las plantas producen su alimento?",
+        "opciones": {
+            "A": "Fotosíntesis",
+            "B": "Respiración",
+            "C": "Transpiración",
+            "D": "Germinación"
+        },
+        "respuesta": "A"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre del primer presidente de Estados Unidos?",
+        "opciones": {
+            "A": "Thomas Jefferson",
+            "B": "George Washington",
+            "C": "Abraham Lincoln",
+            "D": "John Adams"
+        },
+        "respuesta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre del autor de 'El principito'?",
+        "opciones": {
+            "A": "Antoine de Saint-Exupéry",
+            "B": "Jules Verne",
+            "C": "Victor Hugo",
+            "D": "Charles Dickens"
+        },
+        "respuesta": "A"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre del océano que rodea la Antártida?",
+        "opciones": {
+            "A": "Atlántico",
+            "B": "Índico",
+            "C": "Pacífico",
+            "D": "Antártico"
+        },
+        "respuesta": "D"
+    }
+    // Puedes agregar más trivias aquí hasta completar 200.
+]
